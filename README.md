@@ -21,6 +21,6 @@ python3 lets-study.py
 
 --------
 
-<img src="https://github.com/0xskunk/Beginner-Cyber-Study-Resources/blob/master/images/0xskunk1.PNG" width="200">
+<img src="https://github.com/0xskunk/Resource-Program-for-Cyber-Students/blob/master/images/0xskunk1.PNG" width="200">
 
 
