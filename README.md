@@ -1,4 +1,4 @@
-# [U]seful [S]tudy [R]esources
+<img src="https://github.com/0xskunk/Resource-Program-for-Cyber-Students/blob/master/images/usr.png" width="300">
 
 A small program that will enable new students to find great resources related to all aspects of a computer security course, and help to prepare them for getting a job in industry.
 
