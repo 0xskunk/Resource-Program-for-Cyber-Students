@@ -293,7 +293,7 @@ def gametime():
 
 	q5 = input("[*] How do you return the current user that you are logged in as: ")
 	q5 = q5.lower()
-	if q5 == "whoami" or q1 == "id":
+	if q5 == "whoami" or q5 == "id":
 		print("[*]" + green + " CORRECT!")
 		score += 1
 	else:
