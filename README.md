@@ -33,6 +33,7 @@ Using the program is simple! From the directory you installed it just type the f
 cd Resource-Program-for-Cyber-Students
 python3 lets-study.py
 ```
+<img src="https://github.com/0xskunk/Resource-Program-for-Cyber-Students/blob/master/images/menu.png" width="400">
 
 --------
 
