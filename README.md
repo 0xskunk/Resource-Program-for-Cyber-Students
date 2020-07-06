@@ -11,6 +11,21 @@ From within your Linux terminal, you can use the following command to download t
 git clone https://github.com/0xskunk/Resource-Program-for-Cyber-Students.git
 ```
 
+We need to make sure you have the packages installed that the program requires before it will run.
+
+First, install pip, which is a package manager for Python.
+```bash
+apt install python3-pip
+```
+
+Then, we install the colorama library and the art library.
+```bash
+pip3 install colorama
+pip3 install art
+```
+
+This is all the prerequisites you need! 
+
 ### Usage
 
 Using the program is simple! From the directory you installed it just type the following code. 
