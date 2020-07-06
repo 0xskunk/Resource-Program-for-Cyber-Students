@@ -8,7 +8,7 @@ A small program that will enable new students to find great resources related to
 From within your Linux terminal, you can use the following command to download the program.
 
 ```bash
-git clone https://github.com/0xskunk/Beginner-USW-Study-Resources.git
+git clone https://github.com/0xskunk/Resource-Program-for-Cyber-Students.git
 ```
 
 ### Usage
@@ -21,6 +21,6 @@ python3 lets-study.py
 
 --------
 
-<img src="https://github.com/0xskunk/Beginner-Cyber-Study-Resources/blob/master/images/0xskunk1.PNG" width="200">
+<img src="https://github.com/0xskunk/Resource-Program-for-Cyber-Students/blob/master/images/0xskunk1.PNG" width="200">
 
 
