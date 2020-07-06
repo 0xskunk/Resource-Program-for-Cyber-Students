@@ -15,7 +15,7 @@ git clone https://github.com/0xskunk/Resource-Program-for-Cyber-Students.git
 
 Using the program is simple! From the directory you installed it just type the following code. 
 ```bash
-cd Beginner-USW-Study-Resources
+cd Resource-Program-for-Cyber-Students
 python3 lets-study.py
 ```
 
