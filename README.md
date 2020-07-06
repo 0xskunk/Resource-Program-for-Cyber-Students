@@ -15,13 +15,12 @@ We need to make sure you have the packages installed that the program requires b
 
 First, install pip, which is a package manager for Python.
 ```bash
-apt install python3-pip
+sudo apt install python3-pip
 ```
 
 Then, we install the colorama library and the art library.
 ```bash
-pip3 install colorama
-pip3 install art
+pip3 install colorama art
 ```
 
 This is all the prerequisites you need! 
